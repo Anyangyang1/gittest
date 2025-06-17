@@ -8,3 +8,4 @@ Add a new line
 Add java is handsome
 
 Add java is not handsome
+Stupid boss
